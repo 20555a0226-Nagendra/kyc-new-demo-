@@ -130,7 +130,7 @@ export default function Layout() {
               <button
                 onClick={handleStop}
                 className="bg-red-600 text-white px-3 py-1 rounded-md text-sm hover:bg-red-700"
-                style={{height:'40px', width:"100px", fontSize:"20px"}}
+                style={{height:'35px', width:"100px", fontSize:"20px"}}
               >
                 Stop
               </button>
